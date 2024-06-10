@@ -1,2 +1,6 @@
 To Run the json database 
 -> npx json-server --watch data/db.json --port 8000
+
+To solve the react-router-dom issue
+-> npm install react-router-dom --save
+-> in v6 changed componets (useHistory to useNavigate), (Switch to Routes) from v5
