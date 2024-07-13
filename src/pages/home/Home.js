@@ -11,6 +11,8 @@ const Home = () => {
             {blogs && <BlogList blogs={blogs} title="All Blogs"  />}
         </div>
     );
+
+    
 }
  
 export default Home;
